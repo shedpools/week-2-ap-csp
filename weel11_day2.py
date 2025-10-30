@@ -26,8 +26,12 @@ print(f" My name is{first_name},I like{favorite_color})
 
 #  Step 3: Math Practice
 # Use arithmetic operators with your favorite number
-
-
+question = input ("what is your name?")
+question2 = input("what is your name?"
+print(question+question1)
+num 3 = int(input("number 3 please"))
+num4 = int(input("number 4 please"))
+print(num3 + num4)
 #  Step 4: User Input Practice
 # Ask the user two questions and combine answers
 

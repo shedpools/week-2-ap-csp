@@ -48,8 +48,9 @@ print("Modulo (7 % 2):", mod_result)  # 1
 # Exponentiation (power)
 exp_result = 2 ** 3
 print("Exponentiation (2 ** 3):", exp_result)  # 8
-
-
+num1 = 9
+num2 = 8
+print(num1 ** num2)
 # Example combining them all:
 a = 9
 b = 4
@@ -87,7 +88,7 @@ print(f"Addition: {x + y}")
 
 # Multiplication
 print(f"Multiplication: {(x + y) * z}")
-
+print(f"Multiplication: {(4+ 7)}")
 # Subtraction
 print(f"Subtraction: {(x + y) * z - (y / x)}")
 
