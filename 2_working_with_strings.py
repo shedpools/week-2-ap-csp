@@ -43,7 +43,7 @@ declarationofindependence ="The unanimous Declaration of the thirteen united Sta
 # print("Last character:", phrase[-1])  # Output: !
 chicago_mayor = "johnsohn"
 print(len(chicago_mayor))
-print(chicago_mayor[1])
+print[chicago_mayor](4:7)
 # # Slicing: Get a range of characters (start inclusive, end exclusive)
 # print("Characters 1 to 4:", phrase[1:4])  # Output: yth
 
@@ -70,9 +70,9 @@ print(chicago_mayor[1])
 
 # sentence = "Python is fun to learn"
 
-# # .split(): Splits the string into a list of words
-# words = sentence.split()
-# print("Split result:", words)
+ .split(): Splits the string into a list of words
+ words = sentence.split()
+ print("Split result:", words)
 
 # # .format(): Allows inserting values into strings using {}
 # name = "Marvin"
